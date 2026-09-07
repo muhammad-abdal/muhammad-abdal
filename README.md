@@ -9,45 +9,49 @@
 `FLUTTER` × `ARTIFICIAL INTELLIGENCE`
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1800&color=C8FF00&center=true&vCenter=true&width=680&height=28&lines=BUILDING+MOBILE+EXPERIENCES;ENGINEERING+WITH+PURPOSE;EXPLORING+THE+EDGE+OF+AI+%26+SOFTWARE"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1800&color=C8FF00&center=true&vCenter=true&width=680&height=28&lines=BUILDING+MOBILE+EXPERIENCES;ENGINEERING+WITH+PURPOSE;EXPLORING+AI-POWERED+SOFTWARE"
 alt="Animated engineering status"
 />
 
-`MOBILE SYSTEMS`   `AI EXPERIENCES`   `PRODUCT ENGINEERING`
+`MOBILE SYSTEMS`   `AI EXPERIENCES`   `PRODUCT ENGINEERING`
 
 <a href="https://github.com/muhammad-abdal">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammadabdal-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:devmuhammadabdal@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00" alt="Email"/>
 </a>
 
 <br>
 
-<img src="./assets/divider.svg" width="65%" alt="Divider"/>
+<img
+src="./assets/divider.svg"
+width="55%"
+alt="Divider"
+/>
 
 </div>
 
 <br>
 
 <!-- ========================================================= -->
-
 <!-- 01 / IDENTITY -->
-
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>01</sub>
 
 </td>
+
 <td width="90%">
 
 <sub><code>IDENTITY / ENGINEERING</code></sub>
@@ -56,17 +60,22 @@ alt="Animated engineering status"
 
 # THAT FEELS HUMAN.
 
-I’m a Flutter-focused software engineer interested in the intersection of **mobile product engineering, intelligent systems, and thoughtful interaction design.**
-
-I care about the parts users don't immediately see:
-
-`STRUCTURE` · `MAINTAINABILITY` · `PERFORMANCE` · `CLARITY`
+Flutter-focused software engineer building mobile applications with an emphasis on **clean architecture, maintainable systems, responsive interfaces, and practical AI integration.**
 
 <br>
 
-<img src="./assets/identity-card.svg" width="100%" alt="Muhammad Abdal engineering identity"/>
+`STRUCTURE` · `PERFORMANCE` · `MAINTAINABILITY` · `CLARITY`
+
+<br><br>
+
+<img
+src="./assets/identity-card.svg"
+width="100%"
+alt="Muhammad Abdal engineering identity"
+/>
 
 </td>
+
 </tr>
 </table>
 
@@ -77,41 +86,36 @@ I care about the parts users don't immediately see:
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 02 / MATERIALS -->
-
+<!-- 02 / SKILL SYSTEM -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>02</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>THE MATERIALS / SOFTWARE</code></sub>
+<sub><code>SKILL SYSTEM / TECHNOLOGY</code></sub>
 
-# SOFTWARE IS BUILT
+# THE ENGINEERING STACK.
 
-# FROM MATERIALS.
-
-A product is never just a framework.
-
-It is a composition of **interfaces, systems, data, architecture, state, intelligence, and tooling.**
+My current technical stack across **mobile development, application architecture, backend services, AI integration, and development tooling.**
 
 <br>
 
-<img src="./assets/skills-system.svg" width="100%" alt="Complete engineering skill system"/>
-
-<br>
-
-<sub>
-MOBILE · INTELLIGENCE · DATA · ENGINEERING · STATE · TOOLING
-</sub>
+<img
+src="./assets/skill-system.svg"
+width="100%"
+alt="Muhammad Abdal complete engineering skill system"
+/>
 
 </td>
+
 </tr>
 </table>
 
@@ -122,82 +126,76 @@ MOBILE · INTELLIGENCE · DATA · ENGINEERING · STATE · TOOLING
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 03 / INTELLIGENCE -->
-
+<!-- 03 / MOBILE -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>03</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>INTELLIGENCE / AI</code></sub>
+<sub><code>MOBILE / APPLICATIONS</code></sub>
 
-# AI IS NOT
-
-# THE PRODUCT.
-
-# IT CHANGES
-
-# WHAT THE PRODUCT
-
-# CAN BECOME.
-
-I’m interested in AI when it creates a **better interaction**, removes unnecessary friction, or makes software capable of understanding context.
-
-Not AI for decoration.
-
-AI with a reason to exist.
+# MOBILE ENGINEERING.
 
 <br>
 
-<div align="center">
+<table width="100%">
 
-`INPUT`
-  →  
-`CONTEXT`
-  →  
-`INTELLIGENCE`
-  →  
-`ACTION`
-  →  
-`EXPERIENCE`
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
-<br>
+### FLUTTER
 
-> **The interesting question isn't “Where can AI be added?”**
->
-> **It's “What becomes possible when software can understand?”**
+`DART`
 
-<br>
+`MATERIAL 3`
 
-```text
-HUMAN
-   │
-   ▼
- INTENT
-   │
-   ▼
- CONTEXT
-   │
-   ▼
-INTELLIGENCE
-   │
-   ▼
- ACTION
-   │
-   ▼
-EXPERIENCE
-```
+`RESPONSIVE UI`
+
+`CUSTOM WIDGETS`
+
+`ANDROID`
 
 </td>
+
+<td width="50%" valign="top">
+
+### APPLICATION DEVELOPMENT
+
+`API INTEGRATION`
+
+`AUTHENTICATION`
+
+`LOCAL STORAGE`
+
+`IMAGE HANDLING`
+
+`OFFLINE-FIRST PATTERNS`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+src="./assets/materials-grid.svg"
+width="100%"
+alt="Mobile engineering technology grid"
+/>
+
+</td>
+
 </tr>
 </table>
 
@@ -208,51 +206,88 @@ EXPERIENCE
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 04 / METHOD -->
-
+<!-- 04 / ARCHITECTURE -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>04</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>METHOD / PRODUCT ENGINEERING</code></sub>
+<sub><code>ARCHITECTURE / SYSTEMS</code></sub>
 
-# DEFINE
+# SYSTEMS THAT SCALE
 
-# → ARCHITECT
-
-# → BUILD
-
-Good engineering begins before implementation.
-
-I start by understanding the problem, defining the system, choosing the right architecture, and then turning the idea into something people can actually use.
+# WITHOUT CHAOS.
 
 <br>
 
-<img src="./assets/method-flow.svg" width="100%" alt="Engineering method flow"/>
+<table width="100%">
 
-<br>
+<tr>
 
-<div align="center">
+<td width="33%" valign="top">
 
-`PROBLEM`
-  →  
-`SYSTEM`
-  →  
-`IMPLEMENTATION`
-  →  
-`PRODUCT`
+### ARCHITECTURE
 
-</div>
+`CLEAN ARCHITECTURE`
+
+`FEATURE-FIRST`
+
+`REPOSITORY PATTERN`
+
+`SEPARATION OF CONCERNS`
 
 </td>
+
+<td width="33%" valign="top">
+
+### STATE
+
+`RIVERPOD`
+
+`GETX`
+
+`REACTIVE STATE`
+
+`DEPENDENCY INJECTION`
+
+</td>
+
+<td width="33%" valign="top">
+
+### NAVIGATION
+
+`GO_ROUTER`
+
+`ROUTING`
+
+`DEEP LINKS`
+
+`SCREEN FLOWS`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+src="./assets/method-flow.svg"
+width="100%"
+alt="Software architecture and engineering method flow"
+/>
+
+</td>
+
 </tr>
 </table>
 
@@ -263,75 +298,78 @@ I start by understanding the problem, defining the system, choosing the right ar
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 05 / ENGINEERING DNA -->
-
+<!-- 05 / BACKEND -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>05</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>ENGINEERING DNA</code></sub>
+<sub><code>BACKEND / DATA</code></sub>
 
-# STRUCTURE
-
-# BEFORE
-
-# COMPLEXITY.
+# CONNECTED APPLICATIONS.
 
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 01 / CLEAN
+### BACKEND SERVICES
 
-Separate responsibilities.
+`FIREBASE`
 
-Keep business logic independent.
+`SUPABASE`
 
-Make systems easier to test, reason about, and evolve.
+`AUTH`
 
-</td>
+`FIRESTORE`
 
-<td width="33%" valign="top">
-
-### 02 / FEATURE-FIRST
-
-Organize around capabilities rather than endless technical layers.
-
-A feature should have a clear home.
+`REALTIME DATABASE`
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 03 / PRODUCT
+### API & DATA
 
-Architecture exists to serve the product.
+`REST APIs`
 
-The goal isn't abstraction.
+`DIO`
 
-The goal is change without chaos.
+`JSON`
+
+`SERIALIZATION`
+
+`CLOUD DATA`
+
+`LOCAL CACHE`
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-> **Architecture should make the next change easier — not make the current code look impressive.**
+<img
+src="./assets/current-state.svg"
+width="100%"
+alt="Backend and application data system"
+/>
 
 </td>
+
 </tr>
 </table>
 
@@ -342,41 +380,86 @@ The goal is change without chaos.
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 06 / CURRENT STATE -->
-
+<!-- 06 / AI -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>06</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>CURRENT STATE / 2026</code></sub>
+<sub><code>INTELLIGENCE / AI</code></sub>
 
-# CURRENTLY
-
-# BUILDING.
-
-Exploring products where **mobile engineering, AI, privacy, and useful automation** meet.
-
-The direction is simple:
-
-**less friction · better interfaces · smarter software**
+# AI-POWERED APPLICATIONS.
 
 <br>
 
-<img src="./assets/current-state.svg" width="100%" alt="Current engineering state"/>
+<table width="100%">
 
-<br>
+<tr>
 
-`FLUTTER`   `DART`   `AI`   `FIREBASE`   `SUPABASE`   `TYPESCRIPT`
+<td width="33%" valign="top">
+
+### AI INTEGRATION
+
+`GEMINI API`
+
+`PROMPT ENGINEERING`
+
+`AI FEATURES`
+
+`CONTEXT-AWARE FLOWS`
 
 </td>
+
+<td width="33%" valign="top">
+
+### IMAGE & OCR
+
+`OCR`
+
+`IMAGE INPUT`
+
+`TEXT EXTRACTION`
+
+`DOCUMENT PROCESSING`
+
+</td>
+
+<td width="33%" valign="top">
+
+### AI APPLICATIONS
+
+`AI-ASSISTED FEATURES`
+
+`MODEL INTEGRATION`
+
+`AI WORKFLOWS`
+
+`API-BASED AI`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+`AI` × `APPLICATION LOGIC` × `USER EXPERIENCE`
+
+</div>
+
+</td>
+
 </tr>
 </table>
 
@@ -387,75 +470,100 @@ The direction is simple:
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 07 / PRINCIPLES -->
-
+<!-- 07 / TOOLCHAIN -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>07</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>PRINCIPLES / HOW I THINK</code></sub>
+<sub><code>DEVELOPER TOOLCHAIN</code></sub>
 
-# BUILD
+# FROM EDITOR
 
-# FOR PEOPLE.
+# TO BUILD.
 
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 01 / PURPOSE
+### CODE
 
-Solve something real.
+`DART`
 
-<br>
+`TYPESCRIPT`
 
-### 02 / CLARITY
-
-Make complexity understandable.
-
-<br>
-
-### 03 / STRUCTURE
-
-Design systems for change.
+`C++`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### 04 / INTELLIGENCE
+### VERSIONING
 
-Use AI with intention.
+`GIT`
 
-<br>
+`GITHUB`
 
-### 05 / CRAFT
+`BRANCHING`
 
-Details are part of the product.
+`VERSION CONTROL`
 
-<br>
+</td>
 
-### 06 / SHIP
+<td width="25%" valign="top">
 
-Software becomes useful when it leaves the editor.
+### DEVELOPMENT
+
+`VS CODE`
+
+`ANDROID STUDIO`
+
+`POSTMAN`
+
+`REST CLIENTS`
+
+</td>
+
+<td width="25%" valign="top">
+
+### ECOSYSTEM
+
+`FLUTTER`
+
+`FIREBASE`
+
+`SUPABASE`
+
+`NPM`
 
 </td>
 
 </tr>
+
 </table>
 
+<br>
+
+<div align="center">
+
+`WRITE` → `DEBUG` → `TEST` → `BUILD` → `SHIP`
+
+</div>
+
 </td>
+
 </tr>
 </table>
 
@@ -466,74 +574,110 @@ Software becomes useful when it leaves the editor.
 <br>
 
 <!-- ========================================================= -->
-
-<!-- 08 / SIGNAL -->
-
+<!-- 08 / CAPABILITY -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
+
 <td width="10%" valign="top">
 
 <sub>08</sub>
 
 </td>
+
 <td width="90%">
 
-<sub><code>THE SIGNAL / DIRECTION</code></sub>
+<sub><code>CAPABILITY MAP / 2026</code></sub>
 
-# WHERE
+# WHAT I CAN BUILD.
 
-# ENGINEERING
+I work across the layers required to turn an application idea into a structured mobile product.
 
-# MEETS
+<br>
 
-# INTELLIGENCE.
+<img
+src="./assets/method-flow.svg"
+width="100%"
+alt="Engineering capability flow"
+/>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="25%" valign="top">
+
+### 01 / INTERFACE
+
+`FLUTTER`
+
+`DART`
+
+`MATERIAL 3`
+
+`RESPONSIVE UI`
+
+</td>
+
+<td width="25%" valign="top">
+
+### 02 / APPLICATION
+
+`STATE`
+
+`ROUTING`
+
+`ARCHITECTURE`
+
+`BUSINESS LOGIC`
+
+</td>
+
+<td width="25%" valign="top">
+
+### 03 / SERVICES
+
+`FIREBASE`
+
+`SUPABASE`
+
+`REST API`
+
+`DIO`
+
+</td>
+
+<td width="25%" valign="top">
+
+### 04 / INTELLIGENCE
+
+`GEMINI API`
+
+`AI FEATURES`
+
+`OCR`
+
+`IMAGE INPUT`
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
 <div align="center">
 
-```text
-                         ┌──────────────┐
-                         │    HUMAN     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                       ┌────────────────┐
-                       │      IDEA      │
-                       └───────┬────────┘
-                               │
-                    ┌──────────┴──────────┐
-                    ▼                     ▼
-              ┌───────────┐        ┌───────────┐
-              │   MOBILE  │        │     AI    │
-              │  SYSTEMS  │◄──────►│INTELLIGENCE│
-              └─────┬─────┘        └─────┬─────┘
-                    │                    │
-                    └─────────┬──────────┘
-                              ▼
-                       ┌──────────────┐
-                       │   PRODUCT    │
-                       └──────┬───────┘
-                              │
-                              ▼
-                       ┌──────────────┐
-                       │  EXPERIENCE  │
-                       └──────────────┘
-```
-
-### `FLUTTER` × `AI`
-
-`IDEA` → `SYSTEM` → `INTELLIGENCE` → `EXPERIENCE`
+`IDEA` → `INTERFACE` → `LOGIC` → `DATA` → `INTELLIGENCE` → `PRODUCT`
 
 </div>
 
-<br>
-
-The long-term direction is to build software that feels **simple on the surface and intelligently engineered underneath.**
-
 </td>
+
 </tr>
 </table>
 
@@ -544,14 +688,210 @@ The long-term direction is to build software that feels **simple on the surface 
 <br>
 
 <!-- ========================================================= -->
+<!-- 09 / PRINCIPLES -->
+<!-- ========================================================= -->
 
-<!-- 09 / CONTACT -->
+<table>
+<tr>
 
+<td width="10%" valign="top">
+
+<sub>09</sub>
+
+</td>
+
+<td width="90%">
+
+<sub><code>ENGINEERING PRINCIPLES</code></sub>
+
+# HOW I BUILD.
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="16%" valign="top">
+
+### 01
+
+**PURPOSE**
+
+Build for a real problem.
+
+</td>
+
+<td width="16%" valign="top">
+
+### 02
+
+**CLARITY**
+
+Keep complexity understandable.
+
+</td>
+
+<td width="16%" valign="top">
+
+### 03
+
+**STRUCTURE**
+
+Separate responsibilities.
+
+</td>
+
+<td width="16%" valign="top">
+
+### 04
+
+**PERFORMANCE**
+
+Avoid unnecessary work.
+
+</td>
+
+<td width="16%" valign="top">
+
+### 05
+
+**MAINTAINABILITY**
+
+Make the next change easier.
+
+</td>
+
+<td width="16%" valign="top">
+
+### 06
+
+**PRODUCT**
+
+Engineering serves the experience.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+`PURPOSE` · `CLARITY` · `STRUCTURE` · `PERFORMANCE` · `MAINTAINABILITY`
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- ========================================================= -->
+<!-- 10 / CURRENT STATE -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+
+<td width="10%" valign="top">
+
+<sub>10</sub>
+
+</td>
+
+<td width="90%">
+
+<sub><code>2026 / CURRENT STATE</code></sub>
+
+# BUILDING THE NEXT LAYER.
+
+Currently expanding my engineering capabilities across:
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="25%" valign="top">
+
+### FLUTTER
+
+Advanced application architecture, responsive interfaces, reusable components, and production-oriented mobile development.
+
+</td>
+
+<td width="25%" valign="top">
+
+### AI
+
+Building practical AI-powered application experiences through model APIs and intelligent application workflows.
+
+</td>
+
+<td width="25%" valign="top">
+
+### BACKEND
+
+Expanding backend capabilities across Firebase, Supabase, APIs, and TypeScript-based development.
+
+</td>
+
+<td width="25%" valign="top">
+
+### PRODUCT
+
+Turning technical capabilities into useful, maintainable, user-focused software.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+src="./assets/current-state.svg"
+width="100%"
+alt="Muhammad Abdal current engineering state"
+/>
+
+<br>
+
+<div align="center">
+
+`LEARN` → `BUILD` → `SHIP` → `ITERATE`
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- ========================================================= -->
+<!-- 11 / CONTACT -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<sub><code>09 / CONTACT</code></sub>
+<sub><code>11 / CONTACT</code></sub>
 
 # LET'S BUILD
 
@@ -560,31 +900,29 @@ The long-term direction is to build software that feels **simple on the surface 
 <br>
 
 <a href="https://github.com/muhammad-abdal">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00" alt="GitHub"/>
 </a>
-
- 
-
+&nbsp;
 <a href="https://www.linkedin.com/in/muhammadabdal-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00" alt="LinkedIn"/>
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:devmuhammadabdal@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00"/>
+<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="./assets/divider.svg" width="45%" alt="Footer divider"/>
+<img
+src="./assets/divider.svg"
+width="40%"
+alt="Footer divider"
+/>
 
 <br>
 
 <sub>
-
-`MUHAMMAD ABDAL` · `SOFTWARE ENGINEER` · `2026`
-
+`MUHAMMAD ABDAL` · `SOFTWARE ENGINEER` · `FLUTTER × AI` · `2026`
 </sub>
 
 </div>
