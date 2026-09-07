@@ -1,0 +1,538 @@
+<svg
+  width="1000"
+  height="520"
+  viewBox="0 0 1000 520"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="520"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#111111"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+
+    <linearGradient
+      id="accent"
+      x1="0"
+      y1="0"
+      x2="1000"
+      y2="520"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#C8FF00"/>
+      <stop offset="1" stop-color="#8FAF00"/>
+    </linearGradient>
+
+    <filter
+      id="glow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="6"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- FRAME -->
+  <!-- ================================================= -->
+
+  <rect
+    x="10"
+    y="10"
+    width="980"
+    height="500"
+    rx="20"
+    fill="url(#background)"
+    stroke="#292929"
+    stroke-width="1.5"
+  />
+
+  <rect
+    x="10"
+    y="10"
+    width="980"
+    height="500"
+    rx="20"
+    fill="none"
+    stroke="#C8FF00"
+    stroke-width="1"
+    opacity="0.14"
+    filter="url(#glow)"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- GRID -->
+  <!-- ================================================= -->
+
+  <line
+    x1="343"
+    y1="10"
+    x2="343"
+    y2="510"
+    stroke="#242424"
+  />
+
+  <line
+    x1="676"
+    y1="10"
+    x2="676"
+    y2="510"
+    stroke="#242424"
+  />
+
+  <line
+    x1="10"
+    y1="260"
+    x2="990"
+    y2="260"
+    stroke="#242424"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- TYPOGRAPHY -->
+  <!-- ================================================= -->
+
+  <g
+    font-family="JetBrains Mono, Fira Code, Consolas, monospace"
+  >
+
+
+    <!-- ================================================= -->
+    <!-- 01 MOBILE -->
+    <!-- ================================================= -->
+
+    <text
+      x="44"
+      y="55"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      01
+    </text>
+
+    <text
+      x="44"
+      y="98"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      MOBILE
+    </text>
+
+    <text
+      x="44"
+      y="128"
+      font-size="13"
+      fill="#858585"
+    >
+      Flutter · Dart · Android
+    </text>
+
+    <text
+      x="44"
+      y="153"
+      font-size="12"
+      fill="#666666"
+    >
+      Material 3 · Responsive UI
+    </text>
+
+    <text
+      x="44"
+      y="187"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      APPLICATION ENGINEERING
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- 02 AI -->
+    <!-- ================================================= -->
+
+    <text
+      x="377"
+      y="55"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      02
+    </text>
+
+    <text
+      x="377"
+      y="98"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      INTELLIGENCE
+    </text>
+
+    <text
+      x="377"
+      y="128"
+      font-size="13"
+      fill="#858585"
+    >
+      Gemini API · AI Integration
+    </text>
+
+    <text
+      x="377"
+      y="153"
+      font-size="12"
+      fill="#666666"
+    >
+      OCR · On-device AI
+    </text>
+
+    <text
+      x="377"
+      y="187"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      INTELLIGENT EXPERIENCES
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- 03 BACKEND -->
+    <!-- ================================================= -->
+
+    <text
+      x="710"
+      y="55"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      03
+    </text>
+
+    <text
+      x="710"
+      y="98"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      BACKEND
+    </text>
+
+    <text
+      x="710"
+      y="128"
+      font-size="13"
+      fill="#858585"
+    >
+      Firebase · Supabase
+    </text>
+
+    <text
+      x="710"
+      y="153"
+      font-size="12"
+      fill="#666666"
+    >
+      REST APIs · Dio
+    </text>
+
+    <text
+      x="710"
+      y="187"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      DATA · API · PERSISTENCE
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- 04 ARCHITECTURE -->
+    <!-- ================================================= -->
+
+    <text
+      x="44"
+      y="305"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      04
+    </text>
+
+    <text
+      x="44"
+      y="348"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      ARCHITECTURE
+    </text>
+
+    <text
+      x="44"
+      y="378"
+      font-size="13"
+      fill="#858585"
+    >
+      Clean Architecture
+    </text>
+
+    <text
+      x="44"
+      y="403"
+      font-size="12"
+      fill="#666666"
+    >
+      Feature-First · Repository Pattern
+    </text>
+
+    <text
+      x="44"
+      y="437"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      SYSTEM DESIGN
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- 05 STATE -->
+    <!-- ================================================= -->
+
+    <text
+      x="377"
+      y="305"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      05
+    </text>
+
+    <text
+      x="377"
+      y="348"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      STATE
+    </text>
+
+    <text
+      x="377"
+      y="378"
+      font-size="13"
+      fill="#858585"
+    >
+      Riverpod · GetX
+    </text>
+
+    <text
+      x="377"
+      y="403"
+      font-size="12"
+      fill="#666666"
+    >
+      GoRouter · Reactive Flow
+    </text>
+
+    <text
+      x="377"
+      y="437"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      STATE · NAVIGATION
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- 06 TOOLING -->
+    <!-- ================================================= -->
+
+    <text
+      x="710"
+      y="305"
+      font-size="12"
+      letter-spacing="3"
+      fill="#C8FF00"
+    >
+      06
+    </text>
+
+    <text
+      x="710"
+      y="348"
+      font-size="21"
+      font-weight="700"
+      letter-spacing="1"
+      fill="#F3F1EB"
+    >
+      TOOLING
+    </text>
+
+    <text
+      x="710"
+      y="378"
+      font-size="13"
+      fill="#858585"
+    >
+      Git · GitHub · VS Code
+    </text>
+
+    <text
+      x="710"
+      y="403"
+      font-size="12"
+      fill="#666666"
+    >
+      Postman · TypeScript
+    </text>
+
+    <text
+      x="710"
+      y="437"
+      font-size="10"
+      letter-spacing="2"
+      fill="#444444"
+    >
+      DEVELOPMENT · WORKFLOW
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- ACCENT DOTS -->
+  <!-- ================================================= -->
+
+  <g
+    fill="url(#accent)"
+    filter="url(#glow)"
+  >
+
+    <circle
+      cx="317"
+      cy="44"
+      r="3"
+    />
+
+    <circle
+      cx="650"
+      cy="44"
+      r="3"
+    />
+
+    <circle
+      cx="964"
+      cy="44"
+      r="3"
+    />
+
+    <circle
+      cx="317"
+      cy="294"
+      r="3"
+    />
+
+    <circle
+      cx="650"
+      cy="294"
+      r="3"
+    />
+
+    <circle
+      cx="964"
+      cy="294"
+      r="3"
+    />
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CORNER DETAILS -->
+  <!-- ================================================= -->
+
+  <g
+    stroke="#C8FF00"
+    stroke-width="1"
+    opacity="0.45"
+  >
+
+    <path d="M28 28H48"/>
+    <path d="M28 28V48"/>
+
+    <path d="M972 28H952"/>
+    <path d="M972 28V48"/>
+
+    <path d="M28 492H48"/>
+    <path d="M28 492V472"/>
+
+    <path d="M972 492H952"/>
+    <path d="M972 492V472"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- FOOTER -->
+  <!-- ================================================= -->
+
+  <text
+    x="500"
+    y="482"
+    text-anchor="middle"
+    font-family="JetBrains Mono, Fira Code, Consolas, monospace"
+    font-size="10"
+    letter-spacing="3"
+    fill="#444444"
+  >
+    ENGINEERING MATERIALS / MUHAMMAD ABDAL / 2026
+  </text>
+
+</svg>
