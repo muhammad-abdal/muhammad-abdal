@@ -13,21 +13,32 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=
 alt="Animated engineering status"
 />
 
-`MOBILE SYSTEMS`   `AI EXPERIENCES`   `PRODUCT ENGINEERING`
+`MOBILE SYSTEMS` · `AI EXPERIENCES` · `PRODUCT ENGINEERING`
+
+<br>
 
 <a href="https://github.com/muhammad-abdal">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00" alt="GitHub"/>
+<img
+src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00"
+alt="GitHub"
+/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammadabdal-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00" alt="LinkedIn"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00"
+alt="LinkedIn"
+/>
 </a>
 &nbsp;
 <a href="mailto:devmuhammadabdal@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00" alt="Email"/>
+<img
+src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00"
+alt="Email"
+/>
 </a>
 
-<br>
+<br><br>
 
 <img
 src="./assets/divider.svg"
@@ -46,13 +57,11 @@ alt="Divider"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>01</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>IDENTITY / ENGINEERING</code></sub>
 
@@ -60,7 +69,7 @@ alt="Divider"
 
 # THAT FEELS HUMAN.
 
-Flutter-focused software engineer building mobile applications with an emphasis on **clean architecture, maintainable systems, responsive interfaces, and practical AI integration.**
+I am a Flutter-focused software engineer specializing in mobile applications with **clean architecture, maintainable systems, responsive interfaces, and practical AI integration.**
 
 <br>
 
@@ -92,13 +101,11 @@ alt="Muhammad Abdal engineering identity"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>02</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>SKILL SYSTEM / TECHNOLOGY</code></sub>
 
@@ -111,8 +118,14 @@ My current technical stack across **mobile development, application architecture
 <img
 src="./assets/skill-system.svg"
 width="100%"
-alt="Muhammad Abdal complete engineering skill system"
+alt="Muhammad Abdal engineering skill system"
 />
+
+<br>
+
+### CORE TECHNOLOGIES
+
+`FLUTTER` · `DART` · `FIREBASE` · `SUPABASE` · `RIVERPOD` · `GETX` · `GO_ROUTER` · `DIO` · `GEMINI API` · `GIT` · `GITHUB`
 
 </td>
 
@@ -132,13 +145,11 @@ alt="Muhammad Abdal complete engineering skill system"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>03</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>MOBILE / APPLICATIONS</code></sub>
 
@@ -178,7 +189,7 @@ alt="Muhammad Abdal complete engineering skill system"
 
 `IMAGE HANDLING`
 
-`OFFLINE-FIRST PATTERNS`
+`OFFLINE SUPPORT`
 
 </td>
 
@@ -191,7 +202,7 @@ alt="Muhammad Abdal complete engineering skill system"
 <img
 src="./assets/materials-grid.svg"
 width="100%"
-alt="Mobile engineering technology grid"
+alt="Mobile engineering technology system"
 />
 
 </td>
@@ -212,13 +223,11 @@ alt="Mobile engineering technology grid"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>04</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>ARCHITECTURE / SYSTEMS</code></sub>
 
@@ -304,13 +313,11 @@ alt="Software architecture and engineering method flow"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>05</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>BACKEND / DATA</code></sub>
 
@@ -330,7 +337,7 @@ alt="Software architecture and engineering method flow"
 
 `SUPABASE`
 
-`AUTH`
+`AUTHENTICATION`
 
 `FIRESTORE`
 
@@ -362,11 +369,11 @@ alt="Software architecture and engineering method flow"
 
 <br>
 
-<img
-src="./assets/current-state.svg"
-width="100%"
-alt="Backend and application data system"
-/>
+<div align="center">
+
+`CLIENT` → `API` → `SERVICE` → `DATA`
+
+</div>
 
 </td>
 
@@ -386,17 +393,15 @@ alt="Backend and application data system"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>06</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>INTELLIGENCE / AI</code></sub>
 
-# AI-POWERED APPLICATIONS.
+# PRACTICAL AI INTEGRATION.
 
 <br>
 
@@ -414,7 +419,7 @@ alt="Backend and application data system"
 
 `AI FEATURES`
 
-`CONTEXT-AWARE FLOWS`
+`MODEL INTEGRATION`
 
 </td>
 
@@ -434,15 +439,15 @@ alt="Backend and application data system"
 
 <td width="33%" valign="top">
 
-### AI APPLICATIONS
-
-`AI-ASSISTED FEATURES`
-
-`MODEL INTEGRATION`
+### APPLICATION FLOWS
 
 `AI WORKFLOWS`
 
+`CONTEXT-AWARE FEATURES`
+
 `API-BASED AI`
+
+`USER EXPERIENCE`
 
 </td>
 
@@ -476,17 +481,15 @@ alt="Backend and application data system"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>07</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
-<sub><code>DEVELOPER TOOLCHAIN</code></sub>
+<sub><code>TOOLCHAIN / DEVELOPMENT</code></sub>
 
-# FROM EDITOR
+# FROM CODE
 
 # TO BUILD.
 
@@ -498,7 +501,7 @@ alt="Backend and application data system"
 
 <td width="25%" valign="top">
 
-### CODE
+### LANGUAGES
 
 `DART`
 
@@ -510,7 +513,7 @@ alt="Backend and application data system"
 
 <td width="25%" valign="top">
 
-### VERSIONING
+### VERSION CONTROL
 
 `GIT`
 
@@ -580,27 +583,17 @@ alt="Backend and application data system"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>08</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>CAPABILITY MAP / 2026</code></sub>
 
 # WHAT I CAN BUILD.
 
 I work across the layers required to turn an application idea into a structured mobile product.
-
-<br>
-
-<img
-src="./assets/method-flow.svg"
-width="100%"
-alt="Engineering capability flow"
-/>
 
 <br>
 
@@ -694,15 +687,13 @@ alt="Engineering capability flow"
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>09</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
-<sub><code>ENGINEERING PRINCIPLES</code></sub>
+<sub><code>ENGINEERING / PRINCIPLES</code></sub>
 
 # HOW I BUILD.
 
@@ -802,13 +793,11 @@ Engineering serves the experience.
 <table>
 <tr>
 
-<td width="10%" valign="top">
-
+<td width="8%" valign="top">
 <sub>10</sub>
-
 </td>
 
-<td width="90%">
+<td width="92%">
 
 <sub><code>2026 / CURRENT STATE</code></sub>
 
@@ -840,9 +829,9 @@ Building practical AI-powered application experiences through model APIs and int
 
 <td width="25%" valign="top">
 
-### BACKEND
+### TYPESCRIPT
 
-Expanding backend capabilities across Firebase, Supabase, APIs, and TypeScript-based development.
+Expanding backend and full-stack development capabilities with TypeScript and modern web technologies.
 
 </td>
 
@@ -857,16 +846,6 @@ Turning technical capabilities into useful, maintainable, user-focused software.
 </tr>
 
 </table>
-
-<br>
-
-<img
-src="./assets/current-state.svg"
-width="100%"
-alt="Muhammad Abdal current engineering state"
-/>
-
-<br>
 
 <div align="center">
 
@@ -900,15 +879,24 @@ alt="Muhammad Abdal current engineering state"
 <br>
 
 <a href="https://github.com/muhammad-abdal">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00" alt="GitHub"/>
+<img
+src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=C8FF00"
+alt="GitHub"
+/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammadabdal-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00" alt="LinkedIn"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=C8FF00"
+alt="LinkedIn"
+/>
 </a>
 &nbsp;
 <a href="mailto:devmuhammadabdal@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00" alt="Email"/>
+<img
+src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=C8FF00"
+alt="Email"
+/>
 </a>
 
 <br><br>
